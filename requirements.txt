@@ -1,3 +1,6 @@
 fyers-apiv3
-pip install nselib
-pip install fyers-apiv3 pandas numpy
+nselib
+pandas
+numpy
+requests
+openpyxl
