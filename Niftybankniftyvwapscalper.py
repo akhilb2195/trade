@@ -231,5 +231,24 @@ def run():
         time.sleep(POLL_INTERVAL_SECONDS)
 
 
+from fastapi import FastAPI
+
+app = FastAPI()
+
+# Function that runs when server starts
+def startup_function():
+    print("🚀 Server Started Successfully")
+    print("Running startup function...")
+
+@app.on_event("startup")
+async def startup_event():
+    startup_function()
+    run()
+
+# API Endpoint
+@app.get("/hello")
+async def hello():
+    return {"message": "Hello from FastAPI"}
+
 if __name__ == "__main__":
     run()
