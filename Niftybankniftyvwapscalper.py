@@ -252,5 +252,11 @@ async def hello():
     return {"message": "Hello from FastAPI"}
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000))
-    uvicorn.run(app, host="0.0.0.0", port=port)
+    import uvicorn
+    import os
+
+    uvicorn.run(
+        "Niftybankniftyvwapscalper:app",
+        host="0.0.0.0",
+        port=int(os.environ.get("PORT", 10000))
+    )
