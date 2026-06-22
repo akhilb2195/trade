@@ -1,0 +1,112 @@
+DAILY TRADING REPORT — 2026-03-19
+======================================================================
+
+STOCK SUMMARY
+----------------------------------------------------------------------
+
+  HONASA [SELL]
+    PrevHigh   : Rs295.95   PrevLow  : Rs264
+    PrevClose  : Rs281.45
+    Target     : Rs283.17      SL       : Rs297.95
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  ITCHOTELS [SELL]
+    PrevHigh   : Rs160.99   PrevLow  : Rs150.72
+    PrevClose  : Rs158.39
+    Target     : Rs156.88      SL       : Rs162.99
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  INTELLECT [SELL]
+    PrevHigh   : Rs699   PrevLow  : Rs646
+    PrevClose  : Rs676.85
+    Target     : Rs677.8      SL       : Rs701.0
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  WELSPUNLIV [SELL]
+    PrevHigh   : Rs117.36   PrevLow  : Rs109.5
+    PrevClose  : Rs115.21
+    Target     : Rs114.22      SL       : Rs119.36
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  TATATECH [SELL]
+    PrevHigh   : Rs561.55   PrevLow  : Rs526.15
+    PrevClose  : Rs548.6
+    Target     : Rs547.39      SL       : Rs563.55
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  KAJARIACER [SELL]
+    PrevHigh   : Rs969.6   PrevLow  : Rs917
+    PrevClose  : Rs955.45
+    Target     : Rs948.56      SL       : Rs971.6
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  ELECON [SELL]
+    PrevHigh   : Rs416   PrevLow  : Rs383.05
+    PrevClose  : Rs397.75
+    Target     : Rs402.82      SL       : Rs418.0
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  PERSISTENT [SELL]
+    PrevHigh   : Rs4775   PrevLow  : Rs4525.6
+    PrevClose  : Rs4698.6
+    Target     : Rs4675.24      SL       : Rs4777.0
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  GODREJPROP [SELL]
+    PrevHigh   : Rs1666   PrevLow  : Rs1583
+    PrevClose  : Rs1643
+    Target     : Rs1632.8      SL       : Rs1668.0
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  LATENTVIEW [SELL]
+    PrevHigh   : Rs289.5   PrevLow  : Rs276.95
+    PrevClose  : Rs286.1
+    Target     : Rs284.48      SL       : Rs291.5
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  DBREALTY [SELL]
+    PrevHigh   : Rs103.4   PrevLow  : Rs98.35
+    PrevClose  : Rs101.81
+    Target     : Rs101.38      SL       : Rs105.4
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+
+DETAILED EVENT LOG
+----------------------------------------------------------------------
+  Time       Symbol        Side   Event                              Price  Reason
+  ----------------------------------------------------------------------
+
+
+SUMMARY
+----------------------------------------
+  Total stocks loaded  : 11
+  BUY stocks           : 0
+  SELL stocks          : 11
+  Entries placed       : 0
+  Exits placed         : 0
+  Rejected / Avoided   : 0
+  Waited (gap)         : 0
+
+======================================================================

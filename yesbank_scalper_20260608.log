@@ -1,0 +1,19 @@
+2026-06-08 08:07:11,230 [INFO] Starting Yes Bank Scalper Strategy
+2026-06-08 08:07:11,244 [INFO] Loaded access token from file.
+2026-06-08 08:07:11,907 [INFO] Authenticated successfully. User: None
+2026-06-08 08:07:11,907 [INFO] Market not open yet. Waiting for 9:15 AM...
+2026-06-08 09:15:26,442 [INFO] Stopped by user.
+2026-06-08 09:15:31,210 [INFO] Starting Yes Bank Scalper Strategy
+2026-06-08 09:15:31,211 [INFO] Loaded access token from file.
+2026-06-08 09:15:31,957 [INFO] Authenticated successfully. User: None
+2026-06-08 09:15:32,096 [INFO] Pre-market bias: NEUTRAL (EMA9=23.07, EMA21=23.07, VWAP=23.04, LTP=23.07)
+2026-06-08 11:23:14,847 [ERROR] Failed to fetch historical data: History API error: {'s': 'error', 'code': -99, 'message': 'Bad request'}
+2026-06-08 11:23:14,854 [WARNING] Error fetching 1-min candle: History API error: {'s': 'error', 'code': -99, 'message': 'Bad request'}. Retrying...
+2026-06-08 11:27:12,840 [INFO] Stopped by user.
+2026-06-08 11:27:26,243 [INFO] Starting Yes Bank Scalper Strategy
+2026-06-08 11:27:26,253 [INFO] Loaded access token from file.
+2026-06-08 11:27:26,959 [INFO] Authenticated successfully. User: None
+2026-06-08 11:27:27,045 [INFO] Pre-market bias: BEARISH (EMA9=23.40, EMA21=23.40, VWAP=23.34, LTP=23.33)
+2026-06-08 15:35:51,589 [INFO] Market closing soon. Stopping scalper.
+2026-06-08 15:35:52,354 [INFO] Scalper finished for the day.
+2026-06-08 15:35:52,895 [INFO] Total trades: 0, Estimated P&L: 0.00

@@ -1,0 +1,56 @@
+DAILY TRADING REPORT — 2026-03-11
+======================================================================
+
+STOCK SUMMARY
+----------------------------------------------------------------------
+
+  ABSLAMC [SELL]
+    PrevHigh   : Rs1046.55   PrevLow  : Rs879.65
+    PrevClose  : Rs975.75
+    Target     : Rs979.79      SL       : Rs1048.55
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  REDINGTON [SELL]
+    PrevHigh   : Rs268.5   PrevLow  : Rs237.2
+    PrevClose  : Rs259.3
+    Target     : Rs255.98      SL       : Rs270.5
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  CGCL [SELL]
+    PrevHigh   : Rs168.99   PrevLow  : Rs158.25
+    PrevClose  : Rs165.58
+    Target     : Rs164.69      SL       : Rs170.99
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  DEEPAKFERT [SELL]
+    PrevHigh   : Rs995   PrevLow  : Rs936.05
+    PrevClose  : Rs979.9
+    Target     : Rs971.42      SL       : Rs997.0
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+
+DETAILED EVENT LOG
+----------------------------------------------------------------------
+  Time       Symbol        Side   Event                              Price  Reason
+  ----------------------------------------------------------------------
+
+
+SUMMARY
+----------------------------------------
+  Total stocks loaded  : 4
+  BUY stocks           : 0
+  SELL stocks          : 4
+  Entries placed       : 0
+  Exits placed         : 0
+  Rejected / Avoided   : 0
+  Waited (gap)         : 0
+
+======================================================================

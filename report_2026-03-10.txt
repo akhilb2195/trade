@@ -1,0 +1,72 @@
+DAILY TRADING REPORT — 2026-03-10
+======================================================================
+
+STOCK SUMMARY
+----------------------------------------------------------------------
+
+  IRCON [BUY]
+    PrevHigh   : Rs143.49   PrevLow  : Rs136.8
+    PrevClose  : Rs138.89
+    Target     : Rs139.48      SL       : Rs134.8
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  JKTYRE [BUY]
+    PrevHigh   : Rs439.55   PrevLow  : Rs412.65
+    PrevClose  : Rs425.1
+    Target     : Rs423.41      SL       : Rs410.65
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  INDIANB [BUY]
+    PrevHigh   : Rs928   PrevLow  : Rs878.7
+    PrevClose  : Rs898.9
+    Target     : Rs898.42      SL       : Rs876.7
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  AADHARHFC [SELL]
+    PrevHigh   : Rs500.55   PrevLow  : Rs441.6
+    PrevClose  : Rs481.7
+    Target     : Rs476.97      SL       : Rs502.55
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  PRAJIND [SELL]
+    PrevHigh   : Rs322.45   PrevLow  : Rs297
+    PrevClose  : Rs312.75
+    Target     : Rs312.27      SL       : Rs324.45
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  GODREJAGRO [SELL]
+    PrevHigh   : Rs619.7   PrevLow  : Rs575.55
+    PrevClose  : Rs601.75
+    Target     : Rs602.04      SL       : Rs621.7
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+
+DETAILED EVENT LOG
+----------------------------------------------------------------------
+  Time       Symbol        Side   Event                              Price  Reason
+  ----------------------------------------------------------------------
+
+
+SUMMARY
+----------------------------------------
+  Total stocks loaded  : 6
+  BUY stocks           : 3
+  SELL stocks          : 3
+  Entries placed       : 0
+  Exits placed         : 0
+  Rejected / Avoided   : 0
+  Waited (gap)         : 0
+
+======================================================================

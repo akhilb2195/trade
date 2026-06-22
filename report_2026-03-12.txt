@@ -1,0 +1,56 @@
+DAILY TRADING REPORT — 2026-03-12
+======================================================================
+
+STOCK SUMMARY
+----------------------------------------------------------------------
+
+  FACT [SELL]
+    PrevHigh   : Rs928.8   PrevLow  : Rs796.15
+    PrevClose  : Rs884.9
+    Target     : Rs875.74      SL       : Rs930.8
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  GUJGASLTD [SELL]
+    PrevHigh   : Rs420   PrevLow  : Rs374
+    PrevClose  : Rs391
+    Target     : Rs401.6      SL       : Rs422.0
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  GSPL [SELL]
+    PrevHigh   : Rs307   PrevLow  : Rs274
+    PrevClose  : Rs285.15
+    Target     : Rs293.8      SL       : Rs309.0
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  NUVOCO [SELL]
+    PrevHigh   : Rs329   PrevLow  : Rs286.85
+    PrevClose  : Rs297.65
+    Target     : Rs312.14      SL       : Rs331.0
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+
+DETAILED EVENT LOG
+----------------------------------------------------------------------
+  Time       Symbol        Side   Event                              Price  Reason
+  ----------------------------------------------------------------------
+
+
+SUMMARY
+----------------------------------------
+  Total stocks loaded  : 4
+  BUY stocks           : 0
+  SELL stocks          : 4
+  Entries placed       : 0
+  Exits placed         : 0
+  Rejected / Avoided   : 0
+  Waited (gap)         : 0
+
+======================================================================

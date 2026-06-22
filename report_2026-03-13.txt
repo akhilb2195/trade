@@ -1,0 +1,112 @@
+DAILY TRADING REPORT — 2026-03-13
+======================================================================
+
+STOCK SUMMARY
+----------------------------------------------------------------------
+
+  FIVESTAR [BUY]
+    PrevHigh   : Rs380.6   PrevLow  : Rs364.55
+    PrevClose  : Rs368.85
+    Target     : Rs370.97      SL       : Rs362.55
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  NTPCGREEN [SELL]
+    PrevHigh   : Rs103.2   PrevLow  : Rs85.23
+    PrevClose  : Rs97.65
+    Target     : Rs96.01      SL       : Rs105.2
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  DEVYANI [SELL]
+    PrevHigh   : Rs120.28   PrevLow  : Rs109.13
+    PrevClose  : Rs116.96
+    Target     : Rs115.82      SL       : Rs122.28
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  SCI [SELL]
+    PrevHigh   : Rs258   PrevLow  : Rs237.1
+    PrevClose  : Rs250.7
+    Target     : Rs249.64      SL       : Rs260.0
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  CESC [SELL]
+    PrevHigh   : Rs164.9   PrevLow  : Rs152.98
+    PrevClose  : Rs159.42
+    Target     : Rs160.13      SL       : Rs166.9
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  RECLTD [SELL]
+    PrevHigh   : Rs349.45   PrevLow  : Rs327.3
+    PrevClose  : Rs343.5
+    Target     : Rs340.59      SL       : Rs351.45
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  AARTIIND [SELL]
+    PrevHigh   : Rs456.75   PrevLow  : Rs420.3
+    PrevClose  : Rs446.2
+    Target     : Rs442.17      SL       : Rs458.75
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  SWANCORP [SELL]
+    PrevHigh   : Rs368.95   PrevLow  : Rs346
+    PrevClose  : Rs361.75
+    Target     : Rs359.77      SL       : Rs370.95
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  HFCL [SELL]
+    PrevHigh   : Rs75.98   PrevLow  : Rs70.7
+    PrevClose  : Rs74.47
+    Target     : Rs73.87      SL       : Rs77.98
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  DOMS [SELL]
+    PrevHigh   : Rs2389.1   PrevLow  : Rs2069.1
+    PrevClose  : Rs2154
+    Target     : Rs2261.1      SL       : Rs2391.1
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  AEGISLOG [SELL]
+    PrevHigh   : Rs657.7   PrevLow  : Rs598.3
+    PrevClose  : Rs637.25
+    Target     : Rs633.94      SL       : Rs659.7
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+
+DETAILED EVENT LOG
+----------------------------------------------------------------------
+  Time       Symbol        Side   Event                              Price  Reason
+  ----------------------------------------------------------------------
+
+
+SUMMARY
+----------------------------------------
+  Total stocks loaded  : 11
+  BUY stocks           : 1
+  SELL stocks          : 10
+  Entries placed       : 0
+  Exits placed         : 0
+  Rejected / Avoided   : 0
+  Waited (gap)         : 0
+
+======================================================================

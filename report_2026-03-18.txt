@@ -1,0 +1,56 @@
+DAILY TRADING REPORT — 2026-03-18
+======================================================================
+
+STOCK SUMMARY
+----------------------------------------------------------------------
+
+  MRPL [BUY]
+    PrevHigh   : Rs212   PrevLow  : Rs192.3
+    PrevClose  : Rs200.36
+    Target     : Rs200.18      SL       : Rs190.3
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  TARIL [SELL]
+    PrevHigh   : Rs291.85   PrevLow  : Rs264.3
+    PrevClose  : Rs283.4
+    Target     : Rs280.83      SL       : Rs293.85
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  JYOTICNC [SELL]
+    PrevHigh   : Rs774.8   PrevLow  : Rs709.9
+    PrevClose  : Rs748.45
+    Target     : Rs748.84      SL       : Rs776.8
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+  WAAREEENER [SELL]
+    PrevHigh   : Rs2965   PrevLow  : Rs2786.2
+    PrevClose  : Rs2883.1
+    Target     : Rs2893.48      SL       : Rs2967.0
+    Entry Price: Not entered
+    Status     : WAITING
+    Order ID   : None
+
+
+DETAILED EVENT LOG
+----------------------------------------------------------------------
+  Time       Symbol        Side   Event                              Price  Reason
+  ----------------------------------------------------------------------
+
+
+SUMMARY
+----------------------------------------
+  Total stocks loaded  : 4
+  BUY stocks           : 1
+  SELL stocks          : 3
+  Entries placed       : 0
+  Exits placed         : 0
+  Rejected / Avoided   : 0
+  Waited (gap)         : 0
+
+======================================================================

@@ -1,0 +1,14 @@
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[WinError 10054] An existing connection was forcibly closed by the remote host","timestamp":"2026-03-09 21:00:12,182+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[WinError 10054] An existing connection was forcibly closed by the remote host","timestamp":"2026-03-10 10:17:02,218+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"Connection to remote host was lost.","timestamp":"2026-03-10 11:00:00,864+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[WinError 10054] An existing connection was forcibly closed by the remote host","timestamp":"2026-03-10 13:34:07,231+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[WinError 10054] An existing connection was forcibly closed by the remote host","timestamp":"2026-03-11 10:23:50,917+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"Connection to remote host was lost.","timestamp":"2026-03-11 11:07:52,665+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[WinError 10054] An existing connection was forcibly closed by the remote host","timestamp":"2026-03-11 12:38:06,632+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[WinError 10054] An existing connection was forcibly closed by the remote host","timestamp":"2026-03-11 14:16:44,668+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[WinError 10054] An existing connection was forcibly closed by the remote host","timestamp":"2026-03-11 14:41:14,807+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"Connection to remote host was lost.","timestamp":"2026-03-12 11:09:43,736+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[WinError 10054] An existing connection was forcibly closed by the remote host","timestamp":"2026-03-18 10:11:34,456+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[WinError 10054] An existing connection was forcibly closed by the remote host","timestamp":"2026-03-18 12:07:45,421+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[WinError 10054] An existing connection was forcibly closed by the remote host","timestamp":"2026-03-18 13:33:38,711+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[WinError 10054] An existing connection was forcibly closed by the remote host","timestamp":"2026-03-19 10:50:16,029+0530","service":"FyersDataSocket"}
