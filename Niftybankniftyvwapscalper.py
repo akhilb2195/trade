@@ -23,6 +23,29 @@ import pandas as pd
 import creditials as cr
 from fyers_apiv3 import fyersModel
 
+
+
+from fastapi import FastAPI
+import uvicorn
+import os
+
+app = FastAPI()
+
+# Function that runs when server starts
+def startup_function():
+    print("🚀 Server Started Successfully")
+    print("Running startup function...")
+
+@app.on_event("startup")
+async def startup_event():
+    startup_function()
+    run()
+
+# API Endpoint
+@app.get("/hello")
+async def hello():
+    return {"message": "Hello from FastAPI"}
+
 # ============================== CONFIG ===============================
 SYMBOL = "NSE:BANKNIFTY26JUNFUT"   # VERIFY exact current contract before running
 LOT_SIZE = 30                      # 30 BankNifty, 65 Nifty as of 2026 -- verify
@@ -231,31 +254,11 @@ def run():
         time.sleep(POLL_INTERVAL_SECONDS)
 
 
-from fastapi import FastAPI
-import uvicorn
-import os
-
-app = FastAPI()
-
-# Function that runs when server starts
-def startup_function():
-    print("🚀 Server Started Successfully")
-    print("Running startup function...")
-
-@app.on_event("startup")
-async def startup_event():
-    startup_function()
-    run()
-
-# API Endpoint
-@app.get("/hello")
-async def hello():
-    return {"message": "Hello from FastAPI"}
 
 if __name__ == "__main__":
 
     uvicorn.run(
-        "Niftybankniftyvwapscalper:app",
+        app,
         host="0.0.0.0",
         port=int(os.environ.get("PORT", 10000))
     )
