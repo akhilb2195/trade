@@ -39,12 +39,16 @@ def startup_function():
 @app.on_event("startup")
 async def startup_event():
     startup_function()
-    run()
+    
 
 # API Endpoint
 @app.get("/hello")
 async def hello():
     return {"message": "Hello from FastAPI"}
+
+@app.get("/hit")
+async def hello():
+    run()
 
 # ============================== CONFIG ===============================
 SYMBOL = "NSE:BANKNIFTY26JUNFUT"   # VERIFY exact current contract before running
