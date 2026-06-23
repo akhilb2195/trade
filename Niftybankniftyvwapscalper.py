@@ -233,6 +233,7 @@ def run():
 
 from fastapi import FastAPI
 import uvicorn
+import os
 
 app = FastAPI()
 
@@ -252,8 +253,6 @@ async def hello():
     return {"message": "Hello from FastAPI"}
 
 if __name__ == "__main__":
-    import uvicorn
-    import os
 
     uvicorn.run(
         "Niftybankniftyvwapscalper:app",
