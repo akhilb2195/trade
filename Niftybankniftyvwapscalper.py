@@ -22,33 +22,21 @@ from datetime import datetime, timedelta
 import pandas as pd
 import creditials as cr
 from fyers_apiv3 import fyersModel
-
-
-
 from fastapi import FastAPI
+import threading
 import uvicorn
-import os
 
 app = FastAPI()
 
-# Function that runs when server starts
-def startup_function():
-    print("🚀 Server Started Successfully")
-    print("Running startup function...")
+@app.get("/")
+def health_check():
+    return {
+        "status": "success",
+        "message": "VWAP Scalper is running"
+    }
 
-@app.on_event("startup")
-async def startup_event():
-    startup_function()
-    
-
-# API Endpoint
-@app.get("/hello")
-async def hello():
-    return {"message": "Hello from FastAPI"}
-
-@app.get("/hit")
-async def hello():
-    run()
+def start_api():
+    uvicorn.run(app, host="0.0.0.0", port=8000)
 
 # ============================== CONFIG ===============================
 SYMBOL = "NSE:BANKNIFTY26JUNFUT"   # VERIFY exact current contract before running
@@ -258,11 +246,8 @@ def run():
         time.sleep(POLL_INTERVAL_SECONDS)
 
 
-
 if __name__ == "__main__":
+    api_thread = threading.Thread(target=start_api, daemon=True)
+    api_thread.start()
 
-    uvicorn.run(
-        app,
-        host="0.0.0.0",
-        port=int(os.environ.get("PORT", 10000))
-    )
+    run()
